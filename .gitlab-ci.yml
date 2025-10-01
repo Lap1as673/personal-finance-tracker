@@ -1,0 +1,9 @@
+stragets:
+  -test
+  -bild
+  -deploy
+
+before_script:
+  -echo "Begin run palpline"
+
+
